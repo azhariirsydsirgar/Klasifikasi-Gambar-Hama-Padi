@@ -1,0 +1,6 @@
+{0: 'Hama Putih Palsu', 
+1: 'Penggerek Batang Padi Bergaris', 
+2: 'Penggerek Batang Padi Kuning', 
+3: 'Walangsangit',
+ 4: 'Wereng Coklat',
+ 5: 'Wereng Hijau'}
